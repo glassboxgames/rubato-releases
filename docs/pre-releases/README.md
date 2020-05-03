@@ -9,4 +9,4 @@ ___
 
 ## [v0.1](v0.1) (Pre-Beta): 04/17/2020
 
-## [v0.0.1](v.0.0.1) (Gameplay Prototype): 03/05/2020
+## [v0.0.1](v0.0.1) (Gameplay Prototype): 03/05/2020

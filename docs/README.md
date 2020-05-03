@@ -1,5 +1,5 @@
 <!-- Most recent release file -->
-[release]: pre-releases/beta.jar "Rubato v0.2"
+[release]: pre-releases/beta/beta.jar "Rubato v0.2"
 
 
 # Rubato by Glassbox Games
