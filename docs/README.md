@@ -1,7 +1,18 @@
+<!-- Most recent release file -->
+[release]: pre-releases/beta.jar "Rubato v0.2"
+
+
+<center>
 # Rubato by Glassbox Games
 
-Beta Release: 05/01/2020  
-[Download the .jar file](beta.jar)  
+Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
+
+**[Download the JAR file][release]**  
+`v0.2` (Beta): 05/01/2020  
+Click [here](pre-releases/) for previous releases  
+</center>
+
+___
 
 Navigate menus with the arrow keys/WASD and the ENTER/J key.
 
@@ -14,7 +25,7 @@ Navigate menus with the arrow keys/WASD and the ENTER/J key.
 - Activate a time pillar by moving past it
 - Continue to the next level by moving past the right edge of the screen
 
-Touching a moving enemy will result in death.
+Touching a moving enemy will result in death.  
 Attacking a moving enemy will suspend it, at which point the player can safely touch and jump on it. 
 
 ## Editor mode
