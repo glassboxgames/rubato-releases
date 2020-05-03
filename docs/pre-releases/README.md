@@ -1,9 +1,7 @@
-<center>
 # Rubato by Glassbox Games
 
 ### Previous Releases  
 Click [here](..) to go back  
-</center>
 
 ___
 

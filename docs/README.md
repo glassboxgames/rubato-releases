@@ -2,7 +2,6 @@
 [release]: pre-releases/beta.jar "Rubato v0.2"
 
 
-<center>
 # Rubato by Glassbox Games
 
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
@@ -10,7 +9,6 @@ Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!
 **[Download the JAR file][release]**  
 `v0.2` (Beta): 05/01/2020  
 Click [here](pre-releases/) for previous releases  
-</center>
 
 ___
 

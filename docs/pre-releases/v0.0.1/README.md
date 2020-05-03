@@ -2,13 +2,11 @@
 [release]: rubato.jar "Rubato v0.0.1"
 
 
-<center>
 # Rubato by Glassbox Games
 
 **[Download the JAR file][release]**  
 `v0.0.1` (Gameplay Prototype): 03/05/2020  
 Click [here](..) to go back  
-</center>
 
 ___
 
