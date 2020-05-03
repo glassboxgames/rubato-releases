@@ -2,6 +2,8 @@
 [release]: beta.jar "Rubato v0.2"
 
 
+![Glassbox Games](../../assets/icon.png) 
+![Rubato](../../assets/logo.png)
 # Rubato by Glassbox Games
 
 **[Download the JAR file][release]**  

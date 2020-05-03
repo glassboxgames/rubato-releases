@@ -2,6 +2,8 @@
 [release]: rubato.jar "Rubato v0.0.1"
 
 
+![Glassbox Games](../../assets/icon.png) 
+![Rubato](../../assets/logo.png)
 # Rubato by Glassbox Games
 
 **[Download the JAR file][release]**  

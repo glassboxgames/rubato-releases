@@ -1,3 +1,5 @@
+![Glassbox Games](../assets/icon.png) 
+![Rubato](../assets/logo.png)
 # Rubato by Glassbox Games
 
 ### Previous Releases  

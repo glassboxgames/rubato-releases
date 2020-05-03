@@ -1,7 +1,9 @@
 <!-- Most recent release file -->
-[release]: pre-releases/beta/beta.jar "Rubato v0.2"
+[release]: pre-releases/v0.2/beta.jar "Rubato v0.2"
 
 
+![Glassbox Games](assets/icon.png) 
+![Rubato](assets/logo.png)
 # Rubato by Glassbox Games
 
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
