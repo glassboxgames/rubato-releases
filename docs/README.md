@@ -1,5 +1,5 @@
 <!-- Most recent release file -->
-[release]: pre-releases/v0.2/beta.jar "Rubato v0.2"
+[release]: release.jar "05/04/2020"
 
 
 ![Glassbox Games](assets/icon.png) 
@@ -9,7 +9,7 @@
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
 **[Download the JAR file][release]**  
-`v0.2` (Beta): 05/01/2020  
+*Updated 05/04/2020*  
 Click [here](pre-releases/) for previous releases  
 
 ___
