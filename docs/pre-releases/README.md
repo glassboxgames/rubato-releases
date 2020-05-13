@@ -7,6 +7,8 @@ Click [here](..) to go back
 
 ___
 
+## [v0.3](v0.3) (Golden Master): 05/13/2020
+
 ## [v0.2](v0.2) (Beta): 05/01/2020
 
 ## [v0.1](v0.1) (Pre-Beta): 04/17/2020

@@ -1,5 +1,5 @@
 <!-- Most recent release file -->
-[release]: release.jar "05/04/2020"
+[release]: release.jar "05/13/2020"
 
 
 ![Glassbox Games](assets/icon.png) 
@@ -9,29 +9,36 @@
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
 **[Download the JAR file][release]**  
-*Updated 05/04/2020*  
+*Updated 05/13/2020*  
 Click [here](pre-releases/) for previous releases  
 
 ___
 
-Navigate menus with the arrow keys/WASD and the ENTER/J key.
+Navigate menus with the mouse.
 
 ## Play Mode
-- Move left and right with A and D
-- Jump with the spacebar
-- Attack with the K key and a direction (only cardinals)
-- Dash with the J key and WASD (diagonals included)
+- Move left and right with the arrow keys (default)
+- Jump with the spacebar (default)
+- Attack with the J key (default)
 - Pause with ESC
 - Activate a time pillar by moving past it
 - Continue to the next level by moving past the right edge of the screen
 
 Touching a moving enemy will result in death.  
-Attacking a moving enemy will suspend it, at which point the player can safely touch and jump on it. 
+Attacking a moving enemy will suspend it, at which point the player can safely touch and jump on it.
+
+## Cutscene Mode
+- Pause scrolling with the jump key
+- Accelerate or reverse scrolling with the left and right keys
+- Go back to level selection with ESC
 
 ## Editor mode
 - Left click any of the buttons to start placing that element
 - Right click to cancel placement or delete the element under the cursor
+- Hold shift to snap to tile
 - Move the camera with WASD
-- Playtest the level with P (return to editor with ESC)
-- Save the current level to a file with the 1 key
-- Load a level from a file with the 2 key
+- Playtest the level with P
+- Return to the editor with ESC
+
+## Settings
+- Click on a current binding and press a key to rebind Adagio's character controls
