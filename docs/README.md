@@ -1,5 +1,5 @@
 <!-- Most recent release file -->
-[release]: release.jar "05/13/2020"
+[release]: rubato.jar "05/14/2020"
 
 
 ![Glassbox Games](assets/icon.png) 
@@ -9,12 +9,13 @@
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
 **[Download the JAR file][release]**  
-*Updated 05/13/2020*  
+*Updated 05/14/2020*  
 Click [here](pre-releases/) for previous releases  
 
 ___
 
-Navigate menus with the mouse.
+Navigate menus with the mouse.  
+If you have played a previous version of the game, reset `Rubato/save.json` (in your home directory) to 0 levels unlocked for each chapter to get the full experience.
 
 ## Play Mode
 - Move left and right with the arrow keys (default)
