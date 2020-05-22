@@ -1,6 +1,4 @@
 <!-- Most recent release file -->
-[release]: rubato.jar "05/21/2020"
-
 
 ![Glassbox Games](assets/icon.png) 
 ![Rubato](assets/logo.png)
@@ -8,7 +6,8 @@
 
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
-**[Download the JAR file][release]**  
+**[Download for Windows][rubato.exe.zip]**  
+**[Download for Mac OS X][rubato.app.zip]**  
 *Updated 05/21/2020*  
 Click [here](pre-releases/) for previous releases  
 
