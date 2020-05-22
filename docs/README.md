@@ -15,7 +15,6 @@ Click [here](pre-releases/) for previous releases
 ___
 
 Navigate menus with the mouse.  
-If you have played a previous version of the game, please delete `Rubato/save.json` (in your home directory).
 
 ## Play Mode
 - Move left and right with the arrow keys (default)
