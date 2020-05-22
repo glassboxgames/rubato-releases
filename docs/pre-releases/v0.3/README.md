@@ -17,7 +17,7 @@ Navigate menus with the mouse.
 ## Play Mode
 - Move left and right with the arrow keys (default)
 - Jump with the spacebar (default)
-- Attack with the J key (default)
+- Attack with the F key (default)
 - Pause with ESC
 - Activate a time pillar by moving past it
 - Continue to the next level by moving past the right edge of the screen

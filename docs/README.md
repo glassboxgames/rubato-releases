@@ -1,5 +1,5 @@
 <!-- Most recent release file -->
-[release]: rubato.jar "05/14/2020"
+[release]: rubato.jar "05/21/2020"
 
 
 ![Glassbox Games](assets/icon.png) 
@@ -9,7 +9,7 @@
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
 **[Download the JAR file][release]**  
-*Updated 05/14/2020*  
+*Updated 05/21/2020*  
 Click [here](pre-releases/) for previous releases  
 
 ___
@@ -20,7 +20,7 @@ If you have played a previous version of the game, reset `Rubato/save.json` (in 
 ## Play Mode
 - Move left and right with the arrow keys (default)
 - Jump with the spacebar (default)
-- Attack with the J key (default)
+- Attack with the F key (default)
 - Pause with ESC
 - Activate a time pillar by moving past it
 - Continue to the next level by moving past the right edge of the screen
