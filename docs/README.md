@@ -6,12 +6,13 @@
 
 Watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
 
-**[Download for Windows][rubato.exe.zip]**  
-**[Download for Mac OS X][rubato.app.zip]**  
-*Updated 05/21/2020*  
+**[Download for Windows](rubato.exe.zip)**  
+**[Download for Mac OS X](rubato.app.zip)**  
+*Updated 05/22/2020*  
 Click [here](pre-releases/) for previous releases  
 
 ___
+![Quickstart Guide](assets/quickstart.png)
 
 Navigate menus with the mouse.  
 
