@@ -4,8 +4,8 @@
 ![Rubato](assets/logo.png)
 # Rubato by Glassbox Games
 
-**[Download for Windows](rubato.exe.zip)**  
-**[Download for Mac OS X](rubato.app.zip)**  
+**[Download for Windows](https://github.com/glassboxgames/rubato-releases/raw/main/docs/rubato.exe.zip)**  
+**[Download for Mac OS X](https://github.com/glassboxgames/rubato-releases/raw/main/docs/rubato.app.zip)**  
 *Updated 05/22/2020*  
 Click [here](pre-releases/) for previous releases  
 
