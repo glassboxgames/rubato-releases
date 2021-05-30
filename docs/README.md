@@ -42,3 +42,9 @@ Attacking a moving enemy will suspend it, at which point the player can safely t
 
 ## Settings
 - Click on a current binding and press a key to rebind Adagio's character controls
+
+
+# Contributors
+Akane Edwards, Benjamin Shen, Catie Rencricca, Jackie Zheng, Kenneth Li, Kevin Sun, Will Gao, Yanlam Ko, *Jacob Nannapanenni*, *Nathaniel Watson*
+
+[Github](https://github.com/glassboxgames/rubato)
