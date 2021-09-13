@@ -7,9 +7,7 @@
 **[Download for Windows](https://github.com/glassboxgames/rubato-releases/raw/main/docs/rubato.exe.zip)**  
 **[Download for Mac OS X](https://github.com/glassboxgames/rubato-releases/raw/main/docs/rubato.app.zip)**  
 *Updated 05/22/2020*  
-Click [here](pre-releases/) for previous releases  
-
-Visit the [official game page](http://en-ci-gdiac.coecis.cornell.edu/gallery/rubato/) and watch our [Boston FIG 2020 Submission](https://youtu.be/_Khc1Ai3uM8)!  
+Click [here](pre-releases/) for previous releases   
 
 ___
 ![Quickstart Guide](assets/quickstart.png)
